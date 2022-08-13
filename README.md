@@ -4,4 +4,4 @@
 (run! println (repeat "Around the world, around the world"))
 ```
 
-![the website](https://piciakk.github.io/around-the-world/)
+[the website](https://piciakk.github.io/around-the-world/)
